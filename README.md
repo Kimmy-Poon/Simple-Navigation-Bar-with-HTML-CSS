@@ -1,7 +1,7 @@
 # Simple Navigation Bar with HTML & CSS
 
 >
-> ![Screenshot](Simple-Navigation-Bar-with-HTML-CSS.png)
+> ![Screenshot](Simple-Navigation-Bar-with-HTML-CSS.gif)
 >
 > This navigation bar was built using [Bootstrap](https://getbootstrap.com/).
 >
